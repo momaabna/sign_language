@@ -3,7 +3,12 @@
 ## Introduction
 This documentation outlines a Python script designed to display sign language representations for Arabic letters, specifically tailored for Qur'an verses. The script utilizes OpenCV library to display images corresponding to Arabic letters as per the provided input text.
 <br />
-https://user-images.githubusercontent.com/20235263/300131124-14f4110d-c76a-44bb-b6ea-556d68104e7c.mp4
+
+
+
+https://github.com/momaabna/sign_language/assets/20235263/e01f79bd-773b-4fd6-a884-dcfd7c59ddb4
+
+
 ## Requirements
 - Python 3.x
 - OpenCV (cv2) library
